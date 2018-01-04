@@ -15,7 +15,7 @@ markdown: kramdown
 
 # For local development or self-hosting you can just
 # specify the RubyGem name below.
-# theme: govuk-jekyll-theme
+theme: govuk-jekyll-theme
 
 # Remote theme is required for GitHub Pages publishing
 remote_theme: frankieroberto/govuk-jekyll-theme
