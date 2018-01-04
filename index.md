@@ -3,4 +3,4 @@ layout: page
 title: Home
 ---
 
-Hello World. [Happy testing](test)
+Hello World. [Happy testing!](test)
