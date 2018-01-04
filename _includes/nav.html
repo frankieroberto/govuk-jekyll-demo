@@ -1,0 +1,10 @@
+<div class="breadcrumbs">
+  <ol>
+    <li><a href="{{ "/" | relative_url }}">{{ site.title }}</a></li>
+    {% if page.category %}<li><a href="{{ page.category | slugify }}">{{ page.category }}</li>{% endif %}
+
+    {% if page.url != '/' %}
+      <li>{{ page.title }}</li>
+    {% endif %}
+  </ol>
+</div>
