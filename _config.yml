@@ -20,3 +20,9 @@ markdown: kramdown
 # Remote theme is required for GitHub Pages publishing
 remote_theme: frankieroberto/govuk-jekyll-theme
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
