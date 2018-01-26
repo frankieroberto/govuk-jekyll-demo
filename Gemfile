@@ -12,5 +12,5 @@ source "https://rubygems.org"
 gem 'jekyll', '~>3.6.2'
 
 # This is the GOVUK Jekyll theme.
-gem "govuk-jekyll-theme", '~>0.1.1'
+gem "govuk-jekyll-theme", '~>0.1.2'
 
